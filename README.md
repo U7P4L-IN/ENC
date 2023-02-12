@@ -30,6 +30,9 @@ ANONYMOUS U7P4L
 
  python ENC.py
 ```
+#### Screenshots:
+
+<p align="center"><img src="https://github.com/ANONYMOUS-U7P4L/ID-14/blob/main/Screenshot_2023-02-12-23-01-34-357_com.termux.jpg">
 
 
 #### Tools Languages :
