@@ -24,7 +24,7 @@ ANONYMOUS U7P4L
  pip install mechanize
  cd $HOME 
  rm -rf ID-14
- git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/ID-14.git
+ git clone --depth=1 https://github.com/U7P4L-IN/ID-14.git
 
  cd ID-14
 
