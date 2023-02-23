@@ -1,4 +1,4 @@
-# Encoded By : U7P4L
+# Encoded By : 
 # Encryption : Py3 Marshal
 # Py3 Version : 3.11
 
