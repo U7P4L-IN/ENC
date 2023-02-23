@@ -1,5 +1,4 @@
-<p align="center">
-____⚡Welcome⚡____
+
 
 
 AUTHOR:
