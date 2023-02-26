@@ -4,11 +4,11 @@ ____⚡Welcome⚡____
 
 AUTHOR:
 <p align="center">
-ANONYMOUS U7P4L
+U7P4L-IN
 
 </br>
 <p align="center">
-      ⚡Random ID Cloning Tools⚡
+      ⚡Encrypt/decrypt shell script and compile python script into variable or emoji⚡
 
 </p>
   
@@ -23,18 +23,18 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf ID-14
- git clone --depth=1 https://github.com/U7P4L-IN/ID-14.git
+ rm -rf ENC
+ git clone --depth=1 https://github.com/U7P4L-IN/ENC.git
 
- cd ID-14
+ cd ENC
 
- python ENC.py
+ python Emoji.py
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/ANONYMOUS-U7P4L/ID-14/blob/main/Screenshot_2023-02-12-23-01-34-357_com.termux.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC/blob/main/IMG_20230226_161841.jpg">
 
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ID-14&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
