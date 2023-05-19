@@ -32,7 +32,7 @@ U7P4L-IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="https:/ps://github.com/U7P4L-IN/ENC/blob/main/IMG_20230519_152231.jpg"
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC/blob/main/IMG_20230519_152231.jpg"
 
 #### Tools Languages :
 
