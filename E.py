@@ -1,0 +1,1 @@
+print("Gandu! Kese huu🤪")
