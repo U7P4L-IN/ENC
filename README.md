@@ -45,7 +45,7 @@ Encrypt/decrypt shell script and compile python script into variable or emoji
 ```
 ### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENC/blob/master/Image/GridArt_20231015_201123014.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC/blob/master/Image/GridArt_20240122_164830047.jpg">
 
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
@@ -56,7 +56,11 @@ Encrypt/decrypt shell script and compile python script into variable or emoji
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## Copyright©️ Message
-Copyright ©️ [2023-27] [U7P4L-IN]
+<h5 align="center"><b>DESCRIPTION</b></h5>
 
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
