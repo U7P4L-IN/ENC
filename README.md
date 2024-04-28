@@ -31,36 +31,50 @@ Encrypt/decrypt shell script and compile python script into variable or emoji
  
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install bs4
- pip install futures
- rm -rf ENC
- git clone --depth=1 https://github.com/U7P4L-IN/ENC.git
- cd ENC
- ls
- python ENC.py
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+pip install requests
+rm -rf ENC
+git clone --depth=1 https://github.com/U7P4L-IN/ENC.git
+cd ENC
+python ENC.py
 ```
 ### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENC/blob/master/Image/GridArt_20240122_164830047.jpg">
+<p align="center"><img src="./Image/demo1.jpg">
+<p align="center"><img src="./Image/demo2.jpg">
+
 
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## NOTE - 
 - You See Any Error Of This Command.So,Frist Run Termux Setup Command
 
-#### Tools Languages :
+### Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
+
+### Contributing
+>Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
+
+<h2 align="center">LICENSE</h2>
+
+**BASH/PY ENC** Tools is released under the MIT license, which grants the following permissions:
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+For more convoluted language, see the [LICENSE](/LICENSE).
+</br>
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-> [!NOTE]  
-> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
-
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 # Give A Star ⭐
-
-> You can also give this repository a star to show more people and they can use this repository
+> You can also give this repository a star to show more people and they can use this repository.
