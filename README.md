@@ -12,11 +12,7 @@
       <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
    
-<p align="center">
-
-Encrypt/decrypt shell script and compile python script into variable or emoji
-
-</p>
+>Encrypt/decrypt shell script and compile python script into variable or emoji
 
 ## FETURE - 
 - BASH FILE ENCRYPTION AND DECRYPTION 
